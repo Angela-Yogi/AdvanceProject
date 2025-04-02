@@ -6,7 +6,6 @@
 
 ### Student Sarah
 Demographics: 22 years old, university student, tech-savvy.
-
 Goals:
 - Improve her skills to enhance her career prospects.
 - Find courses that fit her busy university schedule.
@@ -33,7 +32,6 @@ Needs:
 
 ### Instructor Ian
 Demographics: 35 years old, professional instructor, experienced in online teaching.
-
 Goals:
 - Easily upload and manage course content.
 - Track student progress and engagement.
@@ -60,7 +58,6 @@ Needs:
 
 ### Admin Alex
 Demographics: 40 years old, platform administrator, experienced in IT management.
-
 Goals:
 - Ensure the platform runs smoothly and securely.
 - Manage user accounts and permissions efficiently.
