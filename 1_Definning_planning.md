@@ -87,3 +87,51 @@ Needs:
 
 ## 2. Use Cases and User Flows
 
+### Use Case 1: Student Sarah - Searching for Courses
+
+User: Student Sarah
+Trigger: Sarah wants to find a course on web development that fits her schedule.
+Process:
+-Sarah logs into the platform using her credentials.
+-She uses the search bar to look for "web development" courses.
+-She applies filters for beginner level and free courses.
+-Sarah clicks on a course to view detailed information, including syllabus, instructor details, and reviews.
+
+Outcome:
+-Sarah finds a course that matches her criteria.
+-She enrolls in the course.
+-The course is added to her profile.
+-Sarah receives a confirmation message and can start the course.
+
+### Use Case 2: Instructor Ian - Uploading Course Content
+
+User: Instructor Ian
+Trigger: Ian wants to create and upload content for a new course on JavaScript.
+Process:
+-Ian logs into the platform using his instructor credentials.
+-He navigates to the course management section and clicks "Create New Course."
+-Ian fills in the course details, including title, description, and syllabus.
+-He uploads video lectures, slides, and quizzes.
+
+Outcome:
+-Ian successfully creates and publishes the new course.
+-The course becomes available for students to enroll.
+-Ian receives notifications about student enrollments and progress.
+-He can interact with students and provide feedback.
+
+### Use Case 3: Admin Alex - Managing User Accounts
+
+User: Admin Alex
+Trigger: Alex needs to resolve a user issue and update permissions.
+Process:
+-Alex logs into the platform using his admin credentials.
+-He navigates to the user management section.
+-Alex searches for the user who reported an issue.
+-He reviews the user's activity logs to understand the issue.
+
+Outcome:
+-Alex resolves the user's issue by updating permissions or fixing technical problems.
+-The user receives a notification that the issue has been resolved.
+-Alex ensures the platform continues to run smoothly.
+-He monitors system performance and user activity to prevent future issues.
+
