@@ -157,3 +157,5 @@ Outcome:
 - User Testing
 - Iterating and Refining
 - Finalizing Prototypes
+
+link to the figma design: 
