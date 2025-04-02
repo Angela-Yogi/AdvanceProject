@@ -2,7 +2,9 @@
 
 # Project phase 1
 
-## User Persona 1: Student Sarah
+## 1. User Personas 
+
+### Student Sarah
 Demographics: 22 years old, university student, tech-savvy.
 
 Goals:
@@ -29,7 +31,7 @@ Needs:
 - Personalized course recommendations.
 - Support and feedback from instructors.
 
-## User Persona 2: Instructor Ian
+### Instructor Ian
 Demographics: 35 years old, professional instructor, experienced in online teaching.
 
 Goals:
@@ -56,7 +58,7 @@ Needs:
 - Reliable and stable platform performance.
 - Efficient administrative tools to save time.
 
-## User Persona 3: Admin Alex
+### Admin Alex
 Demographics: 40 years old, platform administrator, experienced in IT management.
 
 Goals:
