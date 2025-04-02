@@ -6,8 +6,8 @@
 Demographics: 22 years old, university student, tech-savvy.
 
 Goals:
-Improve her skills to enhance her career prospects.
-Find courses that fit her busy university schedule.
+- Improve her skills to enhance her career prospects.
+- Find courses that fit her busy university schedule.
 Track her learning progress and achievements.
 Access high-quality, up-to-date course content.
 Engage with interactive and practical learning materials.
