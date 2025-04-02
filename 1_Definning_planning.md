@@ -31,6 +31,7 @@ Needs:
 
 ## User Persona 2: Instructor Ian
 Demographics: 35 years old, professional instructor, experienced in online teaching.
+
 Goals:
 - Easily upload and manage course content.
 - Track student progress and engagement.
@@ -57,6 +58,7 @@ Needs:
 
 ## User Persona 3: Admin Alex
 Demographics: 40 years old, platform administrator, experienced in IT management.
+
 Goals:
 - Ensure the platform runs smoothly and securely.
 - Manage user accounts and permissions efficiently.
