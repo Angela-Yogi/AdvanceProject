@@ -6,6 +6,7 @@
 
 ### Student Sarah
 Demographics: 22 years old, university student, tech-savvy.
+
 Goals:
 - Improve her skills to enhance her career prospects.
 - Find courses that fit her busy university schedule.
@@ -32,6 +33,7 @@ Needs:
 
 ### Instructor Ian
 Demographics: 35 years old, professional instructor, experienced in online teaching.
+
 Goals:
 - Easily upload and manage course content.
 - Track student progress and engagement.
@@ -58,6 +60,7 @@ Needs:
 
 ### Admin Alex
 Demographics: 40 years old, platform administrator, experienced in IT management.
+
 Goals:
 - Ensure the platform runs smoothly and securely.
 - Manage user accounts and permissions efficiently.
@@ -88,6 +91,7 @@ Needs:
 
 User: Student Sarah
 Trigger: Sarah wants to find a course on web development that fits her schedule.
+
 Process:
 - Sarah logs into the platform using her credentials.
 - She uses the search bar to look for "web development" courses.
@@ -104,6 +108,7 @@ Outcome:
 
 User: Instructor Ian
 Trigger: Ian wants to create and upload content for a new course on JavaScript.
+
 Process:
 - Ian logs into the platform using his instructor credentials.
 - He navigates to the course management section and clicks "Create New Course."
@@ -120,6 +125,7 @@ Outcome:
 
 User: Admin Alex
 Trigger: Alex needs to resolve a user issue and update permissions.
+
 Process:
 - Alex logs into the platform using his admin credentials.
 - He navigates to the user management section.
@@ -132,3 +138,22 @@ Outcome:
 - Alex ensures the platform continues to run smoothly.
 - He monitors system performance and user activity to prevent future issues.
 
+
+## 3. UI Prototype
+
+### Prototypes objective
+
+- User-Friendly Interface
+- Engaging Learning Experience
+- Responsive Design
+- Efficient Content Management
+- Effective Progress Tracking
+  
+### Prototypes objective
+
+- Research and Planning
+- Wireframing
+- Designing High-Fidelity Prototypes
+- User Testing
+- Iterating and Refining
+- Finalizing Prototypes
