@@ -168,49 +168,48 @@ link to the figma design:
 Information architecture defines the structure and organization of your online learning platform. Here are the main sections and their components:
 
 a. Home:
-
 - Overview: Introduction to the platform, featured courses, and announcements.
 - Navigation: Links to main sections (Courses, Profile, Admin).
+- 
 b. Courses:
-
 - Course Listings: Search bar, filters, and course cards with brief descriptions.
 - Course Details: Detailed information about each course, including syllabus, instructor details, and reviews.
 - Enrollment: Option for students to enroll in courses.
+  
 c. Profile:
-
 - User Information: Personal details, profile picture, and settings.
 - Enrolled Courses: List of courses the user is enrolled in, with progress tracking.
 - Achievements: Certificates, badges, and other accomplishments.
+  
 d.  Admin:
-
 - User Management: Tools for managing user accounts and permissions.
 - Course Management: Tools for creating, updating, and deleting courses.
 - System Monitoring: Dashboard for monitoring system performance and user activity.
+  
 ### Technical Design
 Technical design outlines the technologies and architecture you'll use to build the platform. Here are the details:
 
 a. Frontend:
-
 - React Components: Modular components like CourseList, VideoPlayer, Quiz, UserProfile.
 - State Management: Use Redux or Context API for managing application state.
 - Responsive Design: Ensure the UI is responsive and works seamlessly across various devices.
+  
 b. Backend:
-
-Node.js: Use Express.js for server-side logic and routing.
-Database: Use MongoDB to store user data, course content, and progress information.
-Authentication: Implement JWT (JSON Web Tokens) for secure user authentication.
+- Node.js: Use Express.js for server-side logic and routing.
+- Database: Use MongoDB to store user data, course content, and progress information.
+- Authentication: Implement JWT (JSON Web Tokens) for secure user authentication.
+  
 c. API:
-
 - REST API: Create endpoints for course recommendations, user progress, and content management.
 - Documentation: Ensure the API is well-documented for easy integration and use.
 - Security: Implement security measures like rate limiting, input validation, and HTTPS.
+  
 d. Deployment:
-
 - Hosting: Use cloud services like AWS or Azure for hosting the platform.
 - CI/CD: Implement Continuous Integration and Continuous Deployment pipelines for automated testing and deployment.
 - Monitoring: Use tools like New Relic or Datadog for monitoring system performance and user activity.
+  
 e. Testing:
-
 - Unit Testing: Write unit tests for individual components and functions.
 - Integration Testing: Test the integration between different parts of the system.
 - End-to-End Testing: Simulate user interactions to ensure the platform works as expected.
