@@ -165,7 +165,7 @@ link to the figma design:
 
 Information architecture defines the structure and organization of your online learning platform. Here are the main sections and their components:
 
-Home:
+a. Home:
 
 - Overview: Introduction to the platform, featured courses, and announcements.
 - Navigation: Links to main sections (Courses, Profile, Admin).
