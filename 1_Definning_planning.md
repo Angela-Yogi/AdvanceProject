@@ -158,7 +158,7 @@ Outcome:
 - Iterating and Refining
 - Finalizing Prototypes
 
-link to the figma design: 
+picture of low fedility:  
 
 
 ## 4. Information Architecture and Technical Design   
