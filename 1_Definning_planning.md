@@ -158,7 +158,10 @@ Outcome:
 - Iterating and Refining
 - Finalizing Prototypes
 
-picture of low fedility:  
+picture of low fedility images:  
+![Uploading IMG_3070.jpeg…]()  
+
+![Uploading IMG_3071.jpeg…]()
 
 
 ## 4. Information Architecture and Technical Design   
