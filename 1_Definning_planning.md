@@ -159,9 +159,10 @@ Outcome:
 - Finalizing Prototypes
 
 picture of low fedility images:  
-![Uploading IMG_3070.jpeg…]()  
 
-![Uploading IMG_3071.jpeg…]()
+![IMG_3070](https://github.com/user-attachments/assets/db96de3c-8c7f-4ea7-9f4f-0b6dd5001741)
+
+![IMG_3071](https://github.com/user-attachments/assets/0cda7563-567f-4566-b0ce-13a508ba7c3c)
 
 
 ## 4. Information Architecture and Technical Design   
