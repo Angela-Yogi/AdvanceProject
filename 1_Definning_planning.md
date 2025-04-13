@@ -1,5 +1,11 @@
 # Defining and planning
 
+For my project i have Online Learning Platform:
+
+- Frontend: Develop a React interface for course listings, video playback, and quizzes.
+- Backend: Use Node.js to manage user accounts, course content, and progress tracking.
+- API: Create a REST API for course recommendations and user progress analytics.
+
 # Project phase 1
 
 ## 1. User Personas 
