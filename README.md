@@ -12,6 +12,7 @@ Here is the logbook;
 | 19.04.2025  | 2 hrs  | Phase 2 | Environment |
 | 21.04.2025  | 5 hrs  | Phase 2 | Backend |
 | 23.04.2025  | 4 hrs  | Phase 2 | Frontend |
+| 24.04.2025  | 4 hrs  | Phase 2 | Frontend |
 | 26.04.2025  | 2 hrs  | Phase 2 | Database |
 | 28.04.2025  | 2 hrs  | Phase 2 | Basic structure and architecture |
 | 30.04.2025  | 4 hrs  | Phase 2 | Functionalities |
