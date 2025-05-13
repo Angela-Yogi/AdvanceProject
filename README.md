@@ -18,4 +18,5 @@ Here is the logbook;
 | 30.04.2025  | 4 hrs  | Phase 2 | Functionalities |
 | 05.05.2025  | 2 hrs  | Phase 2 | Testing and error handling |
 | 05.12.2025  | 3 hrs  | Phase 3 | further development|
-| 05.13.2025  | 2 hrs  | Phase 3 | worked on deleted git and workind on my code for better restult|
+| 05.13.2025  | 4 hrs  | Phase 3 | worked on deleted git and workind on my code for better restult FINALIZING THE PRESENTATION TOO.|
+
