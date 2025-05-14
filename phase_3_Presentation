@@ -1,0 +1,117 @@
+# Phase 4 – Project Presentation    
+
+## 🎯 Project title
+
+**LearningOnlinePlatform** – A full-stack educational web application for exploring and managing online courses.
+
+---
+
+## 📝 Project overview
+
+**LearningOnlinePlatform** is designed for users who want to register, log in, and explore available courses. The platform is ideal for educational institutions or individuals wanting to create a course listing system. It includes core user authentication features and course browsing.
+
+---
+
+## 📌 Use case summary
+
+| Use Case | Implemented (Yes/No) | Demonstration / Notes |
+|----------|----------------------|------------------------|
+| User registration | Yes | Implemented with React form and backend API integration. |
+| User login | Yes | Validates user credentials with backend. |
+| Browse courses | Yes | Courses fetched from backend and rendered on frontend. |
+| Enroll in courses | No | Could be added by linking user-course relationship in database. |
+| Admin course management | No | Planned as a future feature for adding/editing courses. |
+
+---
+
+## ✍️ Technical implementation
+
+- **Frontend**: React + Vite
+  - Pages: `Home`, `Courses`, `Login`, `Register`
+  - State management with React Hooks
+  - REST API calls via `fetch`
+  - Custom CSS styling
+
+- **Backend**: Node.js + Express
+  - Endpoints:
+    - `POST /api/auth/register`
+    - `POST /api/auth/login`
+    - `GET /api/courses`
+  - Uses **SQLite** via `sqlite3`
+  - Basic error handling implemented
+
+- **Authentication**:
+  - Passwords stored in plaintext (for MVP simplicity)
+  - No JWT/session yet — could be added in future
+
+- **Deployment (Dev)**:
+  - Frontend: Vite dev server (port 5173)
+  - Backend: Express server (port 3000)
+
+---
+
+## 🚂 Development process
+
+- Started with backend and database structure (SQLite + Express)
+- Built API routes for authentication and courses
+- Created frontend views and handled state with React Hooks
+- Faced challenges:
+  - CORS issues between frontend/backend
+  - Git merge conflicts during push
+  - Simplifying password handling for login testing
+
+- Key decisions:
+  - Prioritized basic authentication and course display
+  - Left admin and enrollment for future expansion
+
+---
+
+## ☀️ Reflection and future work
+
+### ✅ What worked well:
+- Clean separation of backend and frontend
+- Successful API integration
+- Simple and readable code structure
+
+### 🚧 Challenges:
+- Git conflicts and pushing to a repo with existing content
+- No hashed passwords for now
+- Course enrollment was more complex than expected
+
+### 💡 Future improvements:
+- Implement password hashing with `bcrypt`
+- Add course enrollment feature
+- Create admin dashboard for managing courses
+- Add JWT-based login session or use cookies for security
+
+---
+
+
+## 📊 Work Hours Log
+
+# logbook
+
+Here is the logbook;
+| Date       |   Hours       |  Subject          |  Output       |
+| ------------- | ------------- |  ------------- | ------------- |
+| 05.04.2025  | 2 hrs   | Phase 1 | User Personas |
+| 07.04.2025  | 2 hrs  | Phase 1 | Use Cases and User Flows |
+| 09.04.2025  | 4 hrs  | Phase 1 | UI Prototypes |
+| 12.04.2025  | 2 hrs  | Phase 1 | Information Architecture and Technical Design |
+| 14.04.2025  | 2 hrs  | Phase 1 | Project Management and User Testing |
+| 16.04.2025  | 4 hrs  | Phase 1 | Project Management and User Testing |
+| 19.04.2025  | 2 hrs  | Phase 2 | Environment |
+| 21.04.2025  | 5 hrs  | Phase 2 | Backend |
+| 23.04.2025  | 4 hrs  | Phase 2 | Frontend |
+| 24.04.2025  | 4 hrs  | Phase 2 | Frontend |
+| 26.04.2025  | 2 hrs  | Phase 2 | Database |
+| 28.04.2025  | 2 hrs  | Phase 2 | Basic structure and architecture |
+| 30.04.2025  | 4 hrs  | Phase 2 | Functionalities |
+| 05.05.2025  | 2 hrs  | Phase 2 | Testing and error handling |
+| 05.12.2025  | 3 hrs  | Phase 3 | further development|
+| 05.13.2025  | 4 hrs  | Phase 3 | worked on deleted git and workind on my code for better restult FINALIZING THE PRESENTATION TOO.|
+     | Total | 52 hrs  |            
+
+## 🪢 Presentation link
+
+_Add a link to your video presentation or state that it was presented live._
